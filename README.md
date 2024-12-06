@@ -66,7 +66,7 @@ StudySync/
 ---
 
 ## 📸 Preview  
-![StudySync Screenshot](./images/preview.png)  
+![StudySync Screenshot](preview.png)  
 
 ---
 
